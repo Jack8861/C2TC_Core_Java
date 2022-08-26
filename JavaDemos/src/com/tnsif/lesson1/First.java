@@ -1,6 +1,7 @@
 // java program to demonstrate naming conventions
 package com.tnsif.lesson1;
 
+
 abstract class Demo {
 	private Integer firstNumber = 100;
 	Float secondNumber = 200.0f;
