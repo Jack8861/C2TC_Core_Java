@@ -1,5 +1,5 @@
 // program to demostrate static block
-package com.tnsit.lesson2;
+package com.tnsif.lesson2;
 
 public class StaticBlockDemo {
 	/* this is static block, this executes before main()*/

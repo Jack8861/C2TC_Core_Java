@@ -1,5 +1,5 @@
 // program to demostrate static class
-package com.tnsit.lesson2;
+package com.tnsif.lesson2;
 
 class Outer
 {

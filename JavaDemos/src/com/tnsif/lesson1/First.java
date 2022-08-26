@@ -1,5 +1,5 @@
 // java program to demonstrate naming conventions
-package com.tnsit.lesson1;
+package com.tnsif.lesson1;
 
 abstract class Demo {
 	private Integer firstNumber = 100;

@@ -1,5 +1,5 @@
 // Program to display output on console
-package com.tnsit.lesson1;
+package com.tnsif.lesson1;
 
 public class Zero {
 

@@ -1,16 +1,16 @@
 package com.tnsif.lesson3e;
-import com.tnsif.lesson3f.Six;
-
-class DemoFive {
+import com.tnsif.lesson3f.*;
+public class Five{
 	
-}
-
-public class Five extends Six{
-
+	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Five obj = new Five();
+		 
+		Six obj = new Six();
 		obj.dispOutput();
+		
+		
 	}
 
 }
