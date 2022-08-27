@@ -1,0 +1,9 @@
+package com.tnsif.lessonBasic_Java_Program;
+
+public class Code_one {
+
+	public static void main(String[] args) {
+		System.out.println("Hello B01 Bangalore Batch");
+	}
+
+}
